@@ -10,9 +10,9 @@ Das Repository beinhaltet 5 Projekte:
 
 ## Ordner-Struktur
 Assets
-- Project-KI-Prototyp: KI-Prototyp, Threadoptimierung, Nutzung von Procedural-Level-Tool
-- Project-Procedural-Level: Prozedurale Erweiterung, Engine-Tool-Entwicklung
-- Project-Simulation: Simulation, Nutzung von Procedural-Level-Tool
+- Project-KI-Prototyp _ KI-Prototyp, Threadoptimierung, Nutzung von Procedural-Level-Tool
+- Project-Procedural-Level _ Prozedurale Erweiterung, Engine-Tool-Entwicklung
+- Project-Simulation _ Simulation, Nutzung von Procedural-Level-Tool
 
 
 ## KI Prototyp
