@@ -1,8 +1,9 @@
-# KI-Prototyp + Simulation + Prozedurale Erweiterung
-Das Repository beinhaltet 3 Projekten: 
+# Semester 2
+Das Repository beinhaltet 4 Projekten: 
 - KI Prototyp
 - Simulation der Spielumgebung
 - Prozedurale Erweiterung der Spielwelt
+- Threadoptimierung
 
 ------------------------------------------------------------------------
 
