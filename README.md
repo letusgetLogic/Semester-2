@@ -10,16 +10,19 @@ Das Repository beinhaltet 5 Projekte:
 
 ## Ordner-Struktur
 Assets
-- Project-KI-Prototyp ________ KI-Prototyp, Threadoptimierung, Nutzung von Procedural-Level-Tool
+- Project-KI-Prototyp ________ KI-Prototyp, Threadoptimierung, Erstellung von Dungeon mit Procedural-Level-Tool
 - Project-Procedural-Level ___ Prozedurale Erweiterung, Engine-Tool-Entwicklung
-- Project-Simulation _________ Simulation, Nutzung von Procedural-Level-Tool
+- Project-Simulation _________ Simulation der Spielumgebung, Erstellung von Terrain mit Procedural-Level-Tool
 
+------------------------------------------------------------------------
 
 ## KI Prototyp
 Dieses Projekt wurde für das Modul **4FSC0PD004** am **SAE Institute Hannover** erstellt.
 
-Entwicklungs-Zeitraum: **04.11.2025 - 02.05.2025**  
-- Update am 06.01.2026
+Entwicklungs-Zeitraum: **21.04.2025 - 02.05.2025**  
 
 Aufgaben:
-
+- Erstellung einer Menge von NPCs
+- Implementierung von mindestens 2 verschiedene Verhaltensmuster:
+  - Chase & Evade (verfolgen & ausweichen)
+  - Idle & Attack (Untätigkeit & Angriff)
