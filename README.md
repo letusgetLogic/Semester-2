@@ -1,5 +1,5 @@
-# Semester 2
-Das Repository beinhaltet 5 Projekten: 
+# 2. Semester Projekte
+Das Repository beinhaltet 5 Projekte: 
 - KI Prototyp
 - Simulation der Spielumgebung
 - Prozedurale Erweiterung der Spielwelt
