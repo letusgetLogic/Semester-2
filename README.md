@@ -8,7 +8,7 @@ Das Repository beinhaltet 4 Projekte:
 ------------------------------------------------------------------------
 
 ## Ordner-Struktur
-Assets
+📁 Assets
 - Project-KI-Prototyp ________ KI-Prototyp, Threadoptimierung, Erstellung von Dungeon mit Procedural-Level-Tool
 - Project-Procedural-Level ___ Prozedurale Erweiterung der Spielwelt
 - Project-Simulation _________ Simulation der Spielumgebung, Erstellung von Terrain mit Procedural-Level-Tool
